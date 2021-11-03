@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhAbuhaimed
 - 👀 I’m interested in Data Science / BI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science / \BI
+- 💞️ I’m looking to collaborate on Data Science / BI
 - 📫 How to reach me aabuhaimed@wisys.com.sa 
 
 <!---
